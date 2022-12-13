@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637779210 source:/mnt/Trabalho/Desenvolvimento/Projetos_em_C/Ransomware/main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+

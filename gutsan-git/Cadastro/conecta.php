@@ -1,0 +1,11 @@
+<?php
+$dsn = "mysql:dbname=cadastro_clientes;host=localhost;charset=utf8";
+$dbuser = "root";
+$dbpass = "";
+
+try{
+	$pdo = new PDO($dsn, $dbuser, $dbpass);
+} catch (PDOException $e) {
+	echo "Falha na conexão. ".$e->getMessage();
+}
+?>

@@ -1,0 +1,17 @@
+.fundo{
+	width: 400px;
+	height: 200px;
+	margin: 0 auto;
+	background-color: #cecece;
+}
+
+.cabeca{
+	width: 400px;
+	height: 30px;
+	margin: 0 auto;
+	background-color: green;
+	font-size:25px;	
+	color:white;
+	font-weight: bold;
+	align-self: center;
+}
